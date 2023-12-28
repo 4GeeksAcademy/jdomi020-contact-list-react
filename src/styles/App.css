@@ -1,0 +1,44 @@
+/* App CSS */
+
+button {
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+  }
+  
+  /* AddContact CSS */
+  
+  
+  .modal {
+    border: 3px solid black;
+    width: 100%;
+    justify-content: center;
+  }
+  
+  h1 {
+    justify-content: center;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  /* ContactCard CSS */
+  
+  .contactCardContainer {
+    display: static;
+  }
+  
+  .contactImage{
+    display: static;
+  }
+  
+  .contactInformation{
+    display: static;
+  }
+  
+  .rightButtons {
+    display: static;
+  }
